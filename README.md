@@ -1,4 +1,4 @@
-### Hi, I’m Dr. Pradeepan P. 👋
+### Hi, I’m Pradeepan P. 👋
 
 I am a **PhD Computer Scientist** dedicated to bridging the gap between deep mathematical research and high-performance, production-ready AI. I specialize in architecting **Sovereign AI**—systems that are not only intelligent but also efficient, secure, and ready for real-world deployment.
 
