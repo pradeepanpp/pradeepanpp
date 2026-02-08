@@ -1,11 +1,9 @@
 ### Hi, I’m Pradeepan P. 👋
 
-I am a **PhD Computer Scientist** dedicated to bridging the gap between deep mathematical research and high-performance, production-ready AI. I specialize in architecting **Sovereign AI**—systems that are not only intelligent but also efficient, secure, and ready for real-world deployment.
-
-**About:**
-My journey began with a fascination for the language of patterns—**Mathematics**. This led me through a career as a Data Analyst, where I learned to find insights in 200M+ records, and eventually to my PhD research. 
-
-I am a firm believer in **Computational Efficiency**; I don't just build models, I specialize in architecting them for high-speed, real-time inference with exceptionally compact parameter footprints.
-
-**Research & Passion:**
-I am passionate about solving the "black box" problems of AI, specifically in **Deepfake Forensics** and **Quantum-Classical Hybrids**. For me, AI is at its best when it is trustworthy, lightweight, and deployed where it matters most. 
+I am a PhD Computer Scientist focused on bridging the gap between mathematical research and practical, production-ready AI. I am dedicated to developing intelligent systems that are secure, reliable, and optimized for deployment in real-world settings.
+## About:
+My journey began with curiosity about mathematics and the patterns that define our world. This foundation led me to a career as a Data Analyst, where I gained experience processing large-scale datasets (200M+ records), ultimately leading to my doctoral research.
+## My Philosophy:
+I am committed to developing robust and scalable AI. I focus on architecting models that maintain high performance across diverse environments, ensuring that academic innovations are effectively translated into industrial solutions.
+## Vision:
+My work is driven by the goal of making AI transparent and dependable. I believe that technology serves us best when it is engineered for integrity and deployed where it can create a meaningful and lasting impact. 🚀
